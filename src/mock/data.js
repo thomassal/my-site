@@ -41,7 +41,7 @@ export const projectsData = [
     img: 'network.jpg',
     title: 'Citation Prediction',
     info: 'Given a citation network of papers, I developed a citation link prediction model using various features such as bert embedding and variation GAE. Finally, the Logistic regression classifier was used for the final prediction.',
-    info2: 'This project was part of my master program for the course of Data Science challenge.',
+    info2: 'This project was part of my master program for the Data Science challenge course.',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
