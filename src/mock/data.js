@@ -49,7 +49,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project3.jpg',
     title: 'Abnormality detection in bone X-Rays',
-    info: 'Given a study (3-6 x-rays) I developed a deep learning model (Python, Tensorflow) that classify the study as normal or subnormal.',
+    info: 'Using the MURA dataset I developed a deep learning model (Python, Tensorflow) for abnormality detection. A patient\'s study consist of 3 to 6 x-rays, and the model classify the given study as normal or subnormal.',
     info2: '',
     url: '',
     repo: '', // if no repo, the button will not show up
