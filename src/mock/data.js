@@ -43,7 +43,7 @@ export const projectsData = [
     info: 'Given a citation network of papers, I developed a citation link prediction model using various features such as bert embedding and variation GAE. Finally, the Logistic regression classifier was used for the final prediction.',
     info2: 'This project was part of my master program for the Data Science challenge course.',
     url: '',
-    repo: '', // if no repo, the button will not show up
+    repo: 'https://github.com/thomassal/MSc-Data-Science/tree/master/data_science_challenge', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -52,7 +52,7 @@ export const projectsData = [
     info: 'Using the MURA dataset I developed a deep learning model (Python, Tensorflow) for abnormality detection. A patient\'s study consist of 3 to 6 x-rays, and the model classify the given study as normal or subnormal.',
     info2: '',
     url: '',
-    repo: '', // if no repo, the button will not show up
+    repo: 'https://github.com/thomassal/MSc-Data-Science/blob/master/deep%20learning/assignment2.ipynb', // if no repo, the button will not show up
   },
 ];
 
