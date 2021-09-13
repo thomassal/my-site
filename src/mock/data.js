@@ -40,7 +40,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'network.jpg',
     title: 'Citation Prediction',
-    info: 'Given a citation network of papers, I developed a citation link prediction model using various features such as bert embedding and variation GAE. Finally, the Logistic regression classifier was used for the final prediction.',
+    info: 'Given a citation network of papers, I developed a citation link prediction model using various features such as bert embeddings and variational GAE. Finally, the Logistic regression classifier was used for the final prediction.',
     info2: 'This project was part of my master program for the Data Science challenge course.',
     url: '',
     repo: 'https://github.com/thomassal/MSc-Data-Science/tree/master/data_science_challenge', // if no repo, the button will not show up
